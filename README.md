@@ -12,9 +12,8 @@ This is where I share my work, experiments, and things I'm currently building. E
 
 - React, Next.js, TypeScript, Tailwind CSS  
 - Python, C++  
-- Unity  
-- Firebase, APIs  
-- Photoshop, Git  
+- Unity, Blender
+- Photoshop, After Effects, Git  
 
 ---
 
