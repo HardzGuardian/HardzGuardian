@@ -7,5 +7,9 @@
 </p>
 
 <p align="center">
-  [website](http://sagarsalunkhe.in/) | [instagram](https://www.instagram.com/sagarsalunkhe98/) | [steam](https://steamcommunity.com/id/yakasuke3) | [discord](https://discord.com/users/hardzguardian) | [email](mailto:Sagarsalunkhe98@gmail.com)
+  <a href="http://sagarsalunkhe.in/">website</a> | 
+  <a href="https://www.instagram.com/sagarsalunkhe98/">instagram</a> | 
+  <a href="https://steamcommunity.com/id/yakasuke3">steam</a> | 
+  <a href="https://discord.com/users/hardzguardian">discord</a> | 
+  <a href="mailto:Sagarsalunkhe98@gmail.com">email</a>
 </p>
