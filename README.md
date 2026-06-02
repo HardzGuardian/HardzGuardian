@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="header.png" alt="Sagar Salunkhe" width="100%">
+  <img src="header1.png" alt="Sagar Salunkhe" width="100%">
 </div>
 
-:3
 
 frontend // game dev // tools
 
