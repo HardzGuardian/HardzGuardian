@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  frontend // game dev // tools
+  full-stack // game dev // tools
 </p>
 
 <p align="center">
